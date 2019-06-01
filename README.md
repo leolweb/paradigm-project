@@ -48,7 +48,7 @@ When the system environment is not used in augmented mode, everything should loo
 
 As a starting point, I would use the DE Xfce, because it is *lightweight* and equipped with ready to use softwares, these have been ported to gtk3 and this greatly facilitates in the developing of a theme. I would adopt the Thunar file manager that can handle files quickly, along with some excellent software from Gnome, for example gnome-system-monitor and gnome-disk-utility, well designed and with less dependencies. An ad-hoc settings manager is needed to handle preferences from different DEs. In the near future it could be possible to develop a new DE with at his base the rendering engine of a browser, perhaps, and using existing applications of various DEs.
 
-All the design elements must be as intuitive as possible, starting from the elementary-icons iconset, the gnome-icon-theme and others that lend themselves well to this purpose (links to resources [here](luma-theme/COPYING)), making each icon more modern and appealing, removing all fxs and shadows which should be intelligently handled with compositing by the window manager.
+All the design elements must be as intuitive as possible, starting from the elementary-icons iconset, the gnome-icon-theme and others that lend themselves well to this purpose (links to resources [here](luma-theme_design/COPYING)), making each icon more modern and appealing, removing all fxs and shadows which should be intelligently handled with compositing by the window manager.
 
  
 
