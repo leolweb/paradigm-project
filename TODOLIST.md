@@ -35,7 +35,7 @@
 - [x] install xfce4-power-manager
 - [x] install alsa, pulseaudio and xfce4-pulseaudio-plugin
 - [x] install firewalld
-- [ ] create a system-boilerplate to track all the changes
+- [x] create a system-boilerplate to track all the changes
 - [ ] create a session file, based on xfce4-session
 - [ ] configure pulseaudio to not lock the server
 
@@ -57,7 +57,8 @@
 
 - [x] fork of [elementary-xfce](https://github.com/shimmerproject/elementary-xfce/tree/v0.3) icons, version 0.3
 - [x] fork of [ubuntu-mode-dark](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-dark/) icons, the latest version available
-- [ ] look for a set of mono icons to use for the file manager (maybe gnome-icon-theme-symbolic ?)
+- [x] fork of [elementary-icons](https://launchpad.net/elementaryicons/3.x/3.1) icons, version 3.1
+- [x] fork of [adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme) symbolic icons, the latest version available
 - [ ] adjustments to contributions and licenses
 - [ ] fixes required for spectrum-iconset (missing icons and links)
 - [ ] necessary fixes for spectrum-iconset-dark (missing icons and links)
