@@ -8,9 +8,8 @@
 - [ ] configure the Xfce window manager
 - [x] find all the necessary indicators for the systray
 - [ ] hide the menu as default for all applications, toolbars everywhere if possible
-- [ ] look for a functional, DE-independent users and groups manager (similar to [switchboard-accounts](https://github.com/elementary/switchboard-plug-useraccounts))
+- [x] look for a functional, DE-independent users and groups manager (gnome-system-tools)
 - [x] add necessary controls to the settings manager: audio settings (pavucontrol), users and groups (?)
-- [ ] look for a method to move xfce4-pulseaudio-plugin to the systray
 - [ ] set of dedicated icons in Thunar, modify toolbar and sidepane with gtk3 css
 - [ ] look for a solution to integrate search capabilities, through Catfish in Thunar
 - [ ] look for a solution for CSD in all Xfce applications, perhaps through their common library libxfce4ui
@@ -19,6 +18,7 @@
 - [ ] find a working and contemporary browser, an email client (maybe Geary ?)
 - [ ] search for essential apps and test them (eg. xfce4-terminal, gnome-system-monitor, gedit, parole, eog, evince, etc.)
 - [ ] try pamac as package and update manager
+- [ ] look for a method to move xfce4-pulseaudio-plugin to the systray
 
  
 
@@ -36,7 +36,7 @@
 - [x] install alsa, pulseaudio and xfce4-pulseaudio-plugin
 - [x] install firewalld
 - [x] create a system-boilerplate to track all the changes
-- [ ] create a session file, based on xfce4-session
+- [x] create a session file, based on xfce4-session
 - [ ] configure pulseaudio to not lock the server
 
  
