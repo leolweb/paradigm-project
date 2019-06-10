@@ -4,13 +4,14 @@
 
 ### Desktop
 
-- [ ] configure Xfce panels
+- [x] configure Xfce panels
 - [ ] configure the Xfce window manager
+- [ ] remove stroke from panels (xfwm)
 - [x] find all the necessary indicators for the systray
 - [ ] hide the menu as default for all applications, toolbars everywhere if possible
 - [x] look for a functional, DE-independent users and groups manager (gnome-system-tools)
 - [x] add necessary controls to the settings manager: audio settings (pavucontrol), users and groups (?)
-- [ ] set of dedicated icons in Thunar, modify toolbar and sidepane with gtk3 css
+- [ ] set of dedicated icons in Thunar, style toolbar and sidepane with gtk3 css
 - [ ] look for a solution to integrate search capabilities, through Catfish in Thunar
 - [ ] look for a solution for CSD in all Xfce applications, perhaps through their common library libxfce4ui
 - [ ] reorganize menus and usability, hide unnecessary or misleading user applications, rename with convenience, patch .desktop files and/or at session level
@@ -38,6 +39,7 @@
 - [x] create a system-boilerplate to track all the changes
 - [x] create a session file, based on xfce4-session
 - [ ] configure pulseaudio to not lock the server
+- [ ] dispose a PKGBUILD
 
  
 
@@ -55,13 +57,12 @@
 
 ### Icons
 
-- [x] fork of [elementary-xfce](https://github.com/shimmerproject/elementary-xfce/tree/v0.3) icons, version 0.3
-- [x] fork of [ubuntu-mode-dark](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-dark/) icons, the latest version available
+- [x] fork of [ubuntu-mono-light](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-light/) and [ubuntu-mono-dark](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-dark/) icons, the latest version available
 - [x] fork of [elementary-icons](https://launchpad.net/elementaryicons/3.x/3.1) icons, version 3.1
 - [x] fork of [adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme) symbolic icons, the latest version available
 - [ ] adjustments to contributions and licenses
-- [ ] fixes required for spectrum-iconset (missing icons and links)
-- [ ] necessary fixes for spectrum-iconset-dark (missing icons and links)
+- [ ] fixes required for Spectrum-iconset (missing icons and links)
+- [ ] necessary fixes for Spectrum-iconset-light and Spectrum-iconset-dark (missing icons and links)
 - [ ] fix systray icons in Xfce
 - [ ] replace unsuitable icons with other free set of icons
 - [ ] create a script with detect for shadows and strokes elements
