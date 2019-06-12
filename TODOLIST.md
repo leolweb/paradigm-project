@@ -48,9 +48,9 @@
 - [x] fork Adwaita theme, gtk3 commit [5428379f](https://gitlab.gnome.org/GNOME/gtk/tree/5428379fad31f1637c920d97a3d0303f606bfb6e), version 3.24.8
 - [x] fork default theme, [xfwm4](https://git.xfce.org/xfce/xfwm4/tree/?h=xfwm4-4.13.2), version 4.13.2
 - [x] set up the theme base, import resources from library gtk+
-- [ ] look for a solution to apply dark variant in panels and panel elements without overloading
-- [ ] write some css for panels and xfce4-whiskermenu-plugin
+- [x] write some css for panels and xfce4-whiskermenu-plugin
 - [ ] try transitions and css animations of gtk3
+- [ ] look for a solution to apply dark variant, maybe through alias or similar
 - [ ] adapt for qt, qt5 and kde related
 
  
