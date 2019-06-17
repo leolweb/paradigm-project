@@ -6,7 +6,7 @@
 
 - [x] configure Xfce panels
 - [ ] configure the Xfce window manager
-- [ ] remove stroke from panels (xfwm)
+- [x] remove stroke from panels (xfwm)
 - [x] find all the necessary indicators for the systray
 - [ ] hide the menu as default for all applications, toolbars everywhere if possible
 - [x] look for a functional, DE-independent users and groups manager (gnome-system-tools)
