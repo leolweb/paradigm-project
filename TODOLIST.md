@@ -15,7 +15,7 @@
 - [ ] look for a solution to integrate search capabilities, through Catfish in Thunar
 - [ ] look for a solution for CSD in all Xfce applications, perhaps through their common library libxfce4ui
 - [ ] reorganize menus and usability, hide unnecessary or misleading user applications, rename with convenience, patch .desktop files and/or at session level
-- [ ] evalutate xfwm4 and mutter as an alternative
+- [x] evalutate xfwm4 and mutter as an alternative
 - [ ] find a working and contemporary browser, an email client (maybe Geary ?)
 - [ ] search for essential apps and test them (eg. xfce4-terminal, gnome-system-monitor, gedit, parole, eog, evince, etc.)
 - [ ] try pamac as package and update manager
@@ -60,12 +60,11 @@
 - [x] fork of [ubuntu-mono-light](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-light/) and [ubuntu-mono-dark](https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/files/head:/ubuntu-mono-dark/) icons, the latest version available
 - [x] fork of [elementary-icons](https://launchpad.net/elementaryicons/3.x/3.1) icons, version 3.1
 - [x] fork of [adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme) symbolic icons, the latest version available
-- [ ] adjustments to contributions and licenses
-- [ ] fixes required for Spectrum-iconset (missing icons and links)
-- [ ] necessary fixes for Spectrum-iconset-light and Spectrum-iconset-dark (missing icons and links)
-- [ ] fix systray icons in Xfce
+- [x] adjustments to contributions and licenses
+- [x] fixes required for Spectrum-iconset (missing icons and links)
+- [x] necessary fixes for Spectrum-iconset-light and Spectrum-iconset-dark (missing icons and links)
+- [x] fix systray icons in Xfce
 - [ ] replace unsuitable icons with other free set of icons
-- [ ] create a script with detect for shadows and strokes elements
 - [ ] remove all shadows from the icons
 - [ ] simplify all icons by removing unnecessary elements (eg. elements outside the viewbox)
 - [ ] modify all elements by removing strokes and adapting their dimensions
