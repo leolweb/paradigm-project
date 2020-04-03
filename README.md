@@ -85,8 +85,6 @@ There is a partial TODOLIST here: [TODOLIST.md](TODOLIST.md)
 
 Join the team: [https://github.com/orgs/squishmatic/teams](https://github.com/orgs/squishmatic/teams)
 
-Email address: <project@squishmatic.com>
-
 ***
 
 You can open issues to request features, report bug, or send a Pull Request.
