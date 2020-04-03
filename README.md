@@ -81,16 +81,6 @@ There is a partial TODOLIST here: [TODOLIST.md](TODOLIST.md)
 
  
 
-### You may want to donate for this project
-
-##### [Contribute with a donation](https://squishmatic.com/donate.html)
-
-***
-
-Free (micro)donations are accepted with Credit card, PayPal, cryptocurrencies &ndash; link to the external site of this project: www&#8203;.squishmatic.com
-
- 
-
 ### Get involved
 
 Join the team: [https://github.com/orgs/squishmatic/teams](https://github.com/orgs/squishmatic/teams)
